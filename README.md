@@ -23,7 +23,6 @@
 	<p align="justify">a celebrar a una mujer inigualable, te esperamos a la</p>
 	<p align="justify">1:50 PM en la casa del rio, no faltes o nos comeremos tu pastel</p>
 	
-        </p>
 </body>
 
 </html>
