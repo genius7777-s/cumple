@@ -1,10 +1,9 @@
 # cumple
-@@ -0,0 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
-    <title>MIS 50`S!!</title>
+    <title> MIS 50`S!! </title>
 </head>
 <meta charset="UTF-8" />
 
