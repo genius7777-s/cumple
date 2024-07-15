@@ -4,7 +4,7 @@
 <html lang="en">
 
 <head>
-  ¡¡MIS 50`S!!
+    <title>MIS 50`S!!</title>
 </head>
 <meta charset="UTF-8" />
 
@@ -22,7 +22,8 @@
 	 <p align="justify">Acompañanos este Lunes 29 de Julio </p>
 	<p align="justify">a celebrar a una mujer inigualable, te esperamos a la</p>
 	<p align="justify">1:30 PM en la casa del rio, no faltes o nos comeremos tu pastel</p>
-	
+	<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5QDLhrAOJJdNAmCTJ8xMyW?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+        </p>
 </body>
 
 </html>
