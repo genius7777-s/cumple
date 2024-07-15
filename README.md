@@ -21,7 +21,7 @@
         <p align="justify"> JULIZA CUMPLE 50!!! </p>
 	 <p align="justify">Acompañanos este Lunes 29 de Julio </p>
 	<p align="justify">a celebrar a una mujer inigualable, te esperamos a la</p>
-	<p align="justify">1:50 PM en la casa del rio, no faltes o nos comeremos tu pastel</p>
+	<p align="justify">1:30 PM en la casa del rio, no faltes o nos comeremos tu pastel</p>
 	
 </body>
 
